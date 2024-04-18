@@ -1,5 +1,4 @@
-
-cat hello.py
+#second version
 
 
 
